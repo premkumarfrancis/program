@@ -1,1 +1,6 @@
 int a=15;   hello peyeh  hello guys
+
+
+
+bottel mani 
+s=12345678;
